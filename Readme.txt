@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+Le site est en ligne à l'adresse suivante : https://ardteam.github.io/jdrmag-site/
 
 Theme Name: Imperial
 Theme URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
