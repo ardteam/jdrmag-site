@@ -1,4 +1,4 @@
-Le site est en ligne à l'adresse suivante : https://ardteam.github.io/jdrmag-site/
+Le site est en ligne à l'adresse suivante : www.journalduroliste.fr
 
 Theme Name: Imperial
 Theme URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
