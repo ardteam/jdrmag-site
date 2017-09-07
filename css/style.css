@@ -479,6 +479,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 20px;
 }
 
+.m-t-20 {
+    margin-top: 20px;
+}
+
 /* Get Started Section
 --------------------------------*/
 #about {
@@ -487,9 +491,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-img {
-  height: 400px;
-  background: url(../img/rpg-table-685x400.jpg) center center no-repeat;
-  background-size: cover;
+    height: 400px;
+    background: url(../img/rpg-table-685x400.jpg) center center no-repeat;
+    background-size: cover;
 }
 
 #about .about-content {
@@ -561,10 +565,11 @@ body.mobile-nav-active #mobile-nav-toggle {
     line-height: 24px;
 }
 
-#services .fonctionnement-img{
+#services .fonctionnement-img {
     text-align: center;
 }
-#services .fonctionnement-img img{
+
+#services .fonctionnement-img img {
     max-width: 100%;
     max-height: 400px;
 }
@@ -748,10 +753,11 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #FFF;
 }
 
-#team .createurs-img{
+#team .createurs-img {
     text-align: center;
 }
-#team .createurs-img img{
+
+#team .createurs-img img {
     max-width: 100%;
     max-height: 256px;
 }
@@ -763,7 +769,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     text-align: center;
     font-weight: 700;
 }
-
 
 #team .team-text {
     line-height: 26px;
